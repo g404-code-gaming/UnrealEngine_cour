@@ -2,7 +2,7 @@
 
 Dans vos projets Unreal Engine, vous pourrez utiliser des vidéos MP4 en guise de texture pour vos objets.
 
-C'est un excellent moyen d'apporter du vivant à votre jeu. 
+C'est un excellent moyen d'apporter du vivant à votre jeu ! 
 
 ![image 1](https://github.com/g404-code-gaming/UnrealEngine_cour/blob/main/image/video_image.png) 
 
@@ -14,7 +14,7 @@ Dans notre exemple, nous allons chercher a ajouter une texture d'eau personnalis
 
 Pour commencer, il faut chercher sur Internet une vidéo MP4. 
 
-Vous pouvez trouver des exemples de vidéo MP4 gratuites sur Pixabay 
+Vous pouvez trouver des exemples de vidéo MP4 gratuites sur [Pixabay](https://pixabay.com/fr/videos/)
 
 ### 2 - Dossier 
 
@@ -30,7 +30,7 @@ Dans l'exemple, ajoutez un dossier **Eau**
 
 ### 3 - Créer Media Source 
 
-Dans le dossier **Eau**, créer un Media Source nommé Eau_Media_Source 
+Dans le dossier **Eau**, créez un Media Source nommé Eau_Media_Source 
 
 ![dossier media source](https://github.com/g404-code-gaming/UnrealEngine_cour/blob/main/image/image_mediasource.png) 
 
@@ -54,11 +54,11 @@ Cela va créer un même temps un Media Texture.
 
 ### 1 - Media Source 
 
-Ouvrez le Media Source, puis choissisez le chemin vers la vidéo
+Ouvrez le Media Source, puis choisissez le chemin vers la vidéo
 
 ![media source vidéo](https://github.com/g404-code-gaming/UnrealEngine_cour/blob/main/image/image_ouvrirmediasource.png)
 
-Dans la liste, choissisez votre vidéo. 
+Dans la liste, choisissez votre vidéo. 
 
 ![media source vidéo2](https://github.com/g404-code-gaming/UnrealEngine_cour/blob/main/image/image_mediasource_choisirimage.png)
 
